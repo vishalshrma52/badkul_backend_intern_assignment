@@ -1,0 +1,13 @@
+package com.badkul.backendintern;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BackendInternAssignmentApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BackendInternAssignmentApplication.class, args);
+	}
+
+}
